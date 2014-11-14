@@ -1,0 +1,89 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\bin\Debug\Saba.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\bin\Debug\Saba.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\Saba.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\Saba.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Saba\Saba\obj\x86\Debug\Saba.Form1.resources
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.exe
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.pdb
+C:\Users\Administrator\Desktop\Saba\Saba\bin\Debug\Saba.exe
+C:\Users\Administrator\Desktop\Saba\Saba\bin\Debug\Saba.pdb
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.FormLogo.resources
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.FormMain.resources
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.FormAbout.resources
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.exe
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.pdb
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\bin\Debug\Saba.exe
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\bin\Debug\Saba.pdb
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.FormAbout.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.FormLogo.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.FormMain.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\ResGen.read.1.tlog
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Saba\Saba\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Saba\test\Saba\obj\x86\Debug\Saba.exe
+C:\Users\Administrator\Desktop\Saba\test\Saba\obj\x86\Debug\Saba.pdb
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Saba\Saba\obj\x86\Debug\Saba.FormHelp.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.exe
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.pdb
+C:\Users\Administrator\Desktop\Rasekhon\Saba\bin\Debug\Saba.exe
+C:\Users\Administrator\Desktop\Rasekhon\Saba\bin\Debug\Saba.pdb
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.FormAbout.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.FormHelp.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.FormLogo.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.FormMain.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Rasekhon\Saba\obj\x86\Debug\Saba.csproj.GenerateResource.Cache
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.exe
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.pdb
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\bin\Debug\Saba.exe
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\bin\Debug\Saba.pdb
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormAbout.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormHelp.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormLogo.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormMain.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+D:\0_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.csproj.GenerateResource.Cache
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.exe
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.pdb
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\bin\Debug\Saba.exe
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\bin\Debug\Saba.pdb
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormAbout.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormHelp.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormLogo.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormMain.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResGen.read.1.tlog
+D:\1_Programmings\1_Windows Application\C\C_sharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResGen.write.1.tlog
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\bin\Debug\Saba.exe
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\bin\Debug\Saba.pdb
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormAbout.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormHelp.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormLogo.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormMain.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.FormPlaySetting.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.Properties.Resources.resources
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResGen.read.1.tlog
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\ResGen.write.1.tlog
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.exe
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\Saba.pdb
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\bin\Debug\Saba.exe.config
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1_Programmings\2_Windows\1_CSharp\Programs\Rasekhon\Saba\bin\Debug\Saba.XML
